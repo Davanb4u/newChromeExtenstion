@@ -1,0 +1,1 @@
+# the non local logic is used to remove pops and ads in the website
